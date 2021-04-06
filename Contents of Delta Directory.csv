@@ -1,0 +1,8 @@
+path,name,size
+dbfs:/user/hive/warehouse/deltaguide.db/customer_data/_delta_log/,_delta_log/,0
+dbfs:/user/hive/warehouse/deltaguide.db/customer_data/part-00000-418067bd-bf5e-4d28-ac68-ea8cea49b956-c001.snappy.parquet,part-00000-418067bd-bf5e-4d28-ac68-ea8cea49b956-c001.snappy.parquet,542929260
+dbfs:/user/hive/warehouse/deltaguide.db/customer_data/part-00000-45b799c4-6305-4c75-a3fd-fa1e840a8b99-c002.snappy.parquet,part-00000-45b799c4-6305-4c75-a3fd-fa1e840a8b99-c002.snappy.parquet,461126371
+dbfs:/user/hive/warehouse/deltaguide.db/customer_data/part-00000-626b910a-882d-44ab-badf-756afde9f6e1-c000.snappy.parquet,part-00000-626b910a-882d-44ab-badf-756afde9f6e1-c000.snappy.parquet,540468009
+dbfs:/user/hive/warehouse/deltaguide.db/customer_data/part-00001-405b13dc-0f72-419a-ab75-ddf993ba51af-c002.snappy.parquet,part-00001-405b13dc-0f72-419a-ab75-ddf993ba51af-c002.snappy.parquet,541858629
+dbfs:/user/hive/warehouse/deltaguide.db/customer_data/part-00001-a794b5c5-8876-4aa9-89c0-92bb15cf5055-c001.snappy.parquet,part-00001-a794b5c5-8876-4aa9-89c0-92bb15cf5055-c001.snappy.parquet,542859315
+dbfs:/user/hive/warehouse/deltaguide.db/customer_data/part-00001-c3f739cd-e309-43de-ab84-d005efb6bb7a-c000.snappy.parquet,part-00001-c3f739cd-e309-43de-ab84-d005efb6bb7a-c000.snappy.parquet,541186721
